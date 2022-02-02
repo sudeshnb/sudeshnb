@@ -10,7 +10,7 @@ I am a mobile app developer using **[FLUTTER]()**. The junior full-stack develop
 <p>
 🟡 Beginner 🟠 Intermediate 🟢 Expert
 
-| |Language |Experience Level |Currently Working |Currently Learning |learned|        
+| |Language |Experience Level |Currently Working |Currently Learning |Learned Before|        
 |:---:|--------|:---:|:---:|:---:|:---:|
 |<img src='https://user-images.githubusercontent.com/33403844/152114312-1bc8023e-6316-428f-bd7f-0c4cb740973f.png' width='30'>|Flutter |🟢|✔|✔|✔|
 |<img src='https://user-images.githubusercontent.com/33403844/152114305-017df442-4c43-4fad-bf61-7813a9c72bc4.png' width='20'> |Python |🟠||✔|✔|
