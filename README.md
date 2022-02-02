@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am sudesh Nishanka bandara. 
+
+I am to develop a mobile application. I will develop deserve application for you. I will manage your projects at once, urgent timeline. The junior full-stack developer who's been doing this stuff for over 3 years. My Skills: Graphic design, Flutter, SQL, SQLite
 
 <!--
 **sudeshnb/sudeshnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+❤ Mobile app development in my blood ❤
