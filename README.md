@@ -74,7 +74,14 @@
 
 </details>
 
-***❤ Mobile app development in my blood ❤*** 🇱🇰
+
+<div align="center">
+❤ Mobile app development in my blood ❤
+<br />
+<br />
+<img align="center" src = "https://profile-counter.glitch.me/sudeshnb/count.svg" alt ="Loading...">
+</div>
+
 
 <br />
 <br />
