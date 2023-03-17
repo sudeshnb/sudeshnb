@@ -102,7 +102,7 @@
 [youtube]: https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg
 [linkedin]: https://linkedin.com/in/sudeshnb
 [github]: https://github.com/sudeshnb
-[instagram]: https://www.instagram.com/sudesh_nish
+[instagram]: https://www.instagram.com/sudesh_nb
 [facebook]: https://www.facebook.com/sudeshnb
 [medium]: https://medium.com/@sudeshnb
 [flutter]: https://flutter.dev
