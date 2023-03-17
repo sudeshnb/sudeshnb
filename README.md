@@ -1,62 +1,114 @@
-### Hi there 👋 
-#### I'm Sudesh Nishshanka Bandara. 💪
-I am a mobile app developer using **[FLUTTER]()**. The junior full-stack developer who's been doing this stuff for over 3 years.
-
- > 🌍    I'm From Sri Lanka.
- 
- > 🧑‍💻 I'm Working from freelancing ... 
+<h1 align="center"> Hi there 👋 I'm <a href="https://sudeshnb.xyx"> Sudesh Nishshanka Bandara.</a> 💪</h1>
+<h4 align="center"> I am a mobile app developer using FLUTTER. The junior full-stack developer who's been doing this stuff for over 3 years.</h4>
 
 
-<details><summary><strong><h3>🤷‍♂️ What are the skills of this guy?</h3></strong></summary>
-<p>
-🟡 Beginner 🟠 Intermediate 🟢 Expert
+<div align="center" class="row">
+    <img src="https://img.shields.io/github/followers/sudeshnb?label=Github%20followers&style=for-the-badge" alt="sudeshnb" />
+    <img src="https://img.shields.io/github/stars/sudeshnb?label=Github%20stars&style=for-the-badge" alt="sudeshnb" />
+    <img  src="https://komarev.com/ghpvc/?username=sudeshnb&label=Profile Views&color=blue&style=for-the-badge" alt="sudeshnb" />
+    <a href="https://www.linkedin.com/in/sudeshnb/">
+    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/sudeshnb/" alt="sudeshnb" /> </a>
+</div>
 
-| |Language |Experience Level |Currently Working |Currently Learning |Learned Before|        
-|:---:|--------|:---:|:---:|:---:|:---:|
-|<img src='https://user-images.githubusercontent.com/33403844/152114312-1bc8023e-6316-428f-bd7f-0c4cb740973f.png' width='30'>|Flutter |🟢|✔|✔|✔|
-|<img src='https://user-images.githubusercontent.com/33403844/152114305-017df442-4c43-4fad-bf61-7813a9c72bc4.png' width='20'> |Python |🟠||✔|✔|
-|<img src='https://user-images.githubusercontent.com/33403844/152122180-2e6fba91-7c9d-4866-87de-04fbd18a692c.png' width='20'>|Java|🟠|||✔|
-|<img src='https://user-images.githubusercontent.com/33403844/152122190-23747d90-7581-4695-b124-059dd735fb05.png' width='20'>|C#|🟠|||✔|
-|<img src='https://user-images.githubusercontent.com/33403844/152122187-c218d9e0-35eb-499b-bea3-97e618a48a53.png' width='20'>|C++|🟠|||✔|
-||C|🟠||✔|✔|
-|<img src='https://user-images.githubusercontent.com/33403844/152122191-d82839fd-8f37-4ebd-bcee-f75b3292f0d6.png' width='20'>|Android|🟡||✔|
-|<img src='https://user-images.githubusercontent.com/33403844/152122192-4da55196-4334-4684-91bd-0e84196c9470.png' width='20'>|Kotlin|🟡||✔|
-|<img src='https://user-images.githubusercontent.com/33403844/152123423-b15eec26-06bb-4ada-b220-8514c52b2ce4.png' width='20'>|Html|🟢|||✔|
- ||CSS|🟢|||✔|
+<br>
+<div class="row">
+ Skills: Flutter - Android - Kotlin - Swift - Java - Laravel - Firebase - Web Services (REST).
+</div>
+<br>
 
-</p>
+- 🌍 &ensp; I'm From Sri Lanka.
+- 🧑 &ensp; I'm Working from freelancing ... 
+- 🌱 &ensp; I'm currently learning Flutter, Swift & more ❤️
+
+### Languages and Tools
+
+[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
+[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
+[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
+[<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][java]
+[<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />][java]
+[<img align="left" alt=“Swift” width="26px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][swift]
+[<img align="left" alt=“Kotlin” width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][kotlin]
+[<img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
+
+<br />
+<br />
+
+
+<details><summary><strong><h3>🤷‍♂️ GitHub Stats?</h3></strong></summary>
+
+<table cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudeshnb&show_icons=true&locale=en" alt="sudeshnb" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudeshnb&" alt="sudeshnb" />
+    </td>
+   </tr>
+ <tr>
+    <td>
+      <a href="https://github.com/sudeshnb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeshnb&theme=light&hide_langs_below=1" />
+</a>
+    </td>
+    
+   </tr>
+</table>
+<!-- <table cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td>
+      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sudeshnb" alt="Talha's github stats"/>    
+    </td> 
+   </tr>
+</table> -->
+
+
+<br />
+<br />
+
 </details>
+<details><summary><strong><h3>🏆 GitHub Trophies</h3></strong></summary>
+ 
+![](https://github-profile-trophy.vercel.app/?username=sudeshnb&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-
-<!--
-**sudeshnb/sudeshnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-✔
-
-🔴🟠🟡🟢
--->
-
-
-### connect with me
- > Social Media Links ⚡    
-
-|[<img src='https://user-images.githubusercontent.com/33403844/152123929-555a6daf-8ee7-4b60-a713-1d41b2ba7626.png' width='90'>](https://www.facebook.com/sudeshnb)                |[<img src='https://user-images.githubusercontent.com/33403844/152124766-bea2d123-1e58-4664-9be5-10bf90f6fa13.png' width='90'>](https://www.linkedin.com/in/sudesh-nishshanka-bandara-81b1a0175/)                          |[<img src='https://user-images.githubusercontent.com/33403844/152124261-314aa5f5-1661-42fa-a520-4c439f0afe39.png' width='90'>](https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg)                         |[<img src='https://user-images.githubusercontent.com/33403844/152124766-bea2d123-1e58-4664-9be5-10bf90f6fa13.png' width='90'>](https://www.linkedin.com/in/sudesh-nishshanka-bandara-81b1a0175/) |[<img src='https://user-images.githubusercontent.com/33403844/152124834-3c2f22cd-4e90-447c-8ea3-cbc06f5306d2.png' width='30'>](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvkXFgPlnbqWvNTVVtpCgpgmNpntTSctVHgdqlngkMnbsSVRSRdMRzPQJvZgTNcmLRTdfg) |[<img src='https://user-images.githubusercontent.com/33403844/152126929-ac1f3e58-2403-44e6-8fb3-0b8d84378aba.png' width='30'>](https://play.google.com/store/apps/dev?id=8325933715003989756)           |[<img src='https://user-images.githubusercontent.com/33403844/152129174-df9329aa-62b4-4317-9b4a-b1f1197e1385.png' width='40'>](https://www.fiverr.com/sudeshnb) |
-|----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|
-
-
-
-
+</details>
 
 ***❤ Mobile app development in my blood ❤*** 🇱🇰
 
+<br />
+<br />
+
+### Connect With Me
+
+ 
+[<img align="left" alt="sudeshnb | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
+[<img align="left" alt="sudeshnb | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
+[<img align="left" alt="sudeshnb | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
+[<img align="left" alt="sudeshnb | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
+[<img align="left" alt="sudeshnb | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img align="left" alt="Msudeshnb | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
+[<img align="left" alt="sudeshnb | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
+[<img align="left" alt="sudeshnb | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
+[<img align="left" alt="sudeshnb | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
+
+<br />
+<br />
+
+[website]: (https://sudeshnb.xyz)
+[whatsapp]: (https://wa.me/94741325674)
+[mail]: (https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvkXFgPlnbqWvNTVVtpCgpgmNpntTSctVHgdqlngkMnbsSVRSRdMRzPQJvZgTNcmLRTdfg)
+[twitter]: (https://twitter.com/sudesh78)
+[youtube]: (https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg)
+[linkedin]: (https://linkedin.com/in/sudeshnb)
+[github]: (https://github.com/sudeshnb)
+[instagram]: (https://www.instagram.com/sudeshnb)
+[facebook]: (https://www.facebook.com/sudeshnb)
+[medium]: (https://medium.com/@sudeshnb)
+[flutter]: (https://flutter.dev)
+[dart]: (https://dart.dev)
+[vscode]: (https://code.visualstudio.com)
+[firebase]: (https://firebase.google.com)
+[java]: (https://www.java.com/en/)
+[swift]: (https://developer.apple.com/swift/)
+[kotlin]: (https://kotlinlang.org)
