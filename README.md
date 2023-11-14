@@ -3,11 +3,10 @@
 
 
 <div align="center" class="row">
-    <img src="https://img.shields.io/github/followers/sudeshnb?label=Github%20followers&style=for-the-badge" alt="sudeshnb" />
-    <img src="https://img.shields.io/github/stars/sudeshnb?label=Github%20stars&style=for-the-badge" alt="sudeshnb" />
-    <img  src="https://komarev.com/ghpvc/?username=sudeshnb&label=Profile Views&color=blue&style=for-the-badge" alt="sudeshnb" />
-    <a href="https://www.linkedin.com/in/sudeshnb/">
-    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/sudeshnb/" alt="sudeshnb" /> </a>
+    <img src="https://img.shields.io/github/followers/sudeshnb?logo=github&label=Github%20Followers&style=for-the-badge" alt="sudeshnb" />
+    <img src="https://img.shields.io/github/stars/sudeshnb?logo=github&label=Github%20Stars&style=for-the-badge" alt="sudeshnb" />
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/sudeshnb" alt="sudeshnb" />
+    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/sudeshnb/" alt="sudeshnb" />
 </div>
 
 <br>
@@ -92,8 +91,8 @@
 [<img align="left" alt="sudeshnb | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
 [<img align="left" alt="sudeshnb | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
 [<img align="left" alt="sudeshnb | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
-[<img align="left" alt="sudeshnb | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
 [<img align="left" alt="sudeshnb | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img align="left" alt="sudeshnb | LinkedIn" src="https://img.shields.io/twitter/follow/sudesh78?style=social&logo=X" />][twitter]
 [<img align="left" alt="Msudeshnb | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
 [<img align="left" alt="sudeshnb | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
 [<img align="left" alt="sudeshnb | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
@@ -105,7 +104,7 @@
 [website]: https://sudeshnb.xyz
 [whatsapp]: https://wa.me/94741325674
 [mail]: https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvkXFgPlnbqWvNTVVtpCgpgmNpntTSctVHgdqlngkMnbsSVRSRdMRzPQJvZgTNcmLRTdfg
-[twitter]: https://twitter.com/sudesh78
+[twitter]: https://twitter.com/sudesh78](https://twitter.com/intent/follow?screen_name=sudesh78
 [youtube]: https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg
 [linkedin]: https://linkedin.com/in/sudeshnb
 [github]: https://github.com/sudeshnb
