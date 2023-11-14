@@ -3,10 +3,12 @@
 
 
 <div align="center" class="row">
-    <img src="https://img.shields.io/github/followers/sudeshnb?logo=github&label=Github%20Followers&style=for-the-badge" alt="sudeshnb" />
-    <img src="https://img.shields.io/github/stars/sudeshnb?logo=github&label=Github%20Stars&style=for-the-badge" alt="sudeshnb" />
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/sudeshnb" alt="sudeshnb" />
-    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/sudeshnb/" alt="sudeshnb" />
+    <img src="https://img.shields.io/github/followers/sudeshnb?logo=github&label=Github%20Followers&style=non" alt="sudeshnb" />
+    <img src="https://img.shields.io/github/stars/sudeshnb?logo=github&label=Github%20Stars&style=non" alt="sudeshnb" />
+<!--     <img alt="followers" src="https://img.shields.io/github/followers/sudeshnb?label=Followers&style=social"> -->
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=non&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/sudeshnb" alt="sudeshnb" />
+    <img src="https://komarev.com/ghpvc/?username=sudeshnb&logo=github&color=brightgreen" alt="watching_count" />
+    <img src="https://img.shields.io/badge/-CONNECT-blue?style=non&logo=Linkedin&link=https://www.linkedin.com/in/sudeshnb/" alt="sudeshnb" />
 </div>
 
 <br>
