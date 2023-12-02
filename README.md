@@ -18,8 +18,8 @@
 <br>
 
 - 🌍 &ensp; I'm From Sri Lanka.
-- 🧑 &ensp; I'm Working from freelancing ... 
-- 🌱 &ensp; I'm currently learning Flutter, Swift & more ❤️
+- 🧑 &ensp; I'm Working as a freelancer. 
+- 🌱 &ensp; I'm currently working with Flutter, Swift & more ❤️
 
 ### Languages and Tools
 
