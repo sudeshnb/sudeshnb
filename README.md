@@ -1,7 +1,14 @@
-<h1 align="center"> Hi there 👋 I'm <a href="https://sudeshnb.xyz"> Sudesh Nishshanka Bandara.</a> 💪</h1>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, I'm <a href="https://sudeshnb.xyz"> Sudesh Bandara.</a> 💪</h1>
+<br>
+<h3 align="center">Mobile App Developer | Online Entrepreneur | Data Analysis Enthusiast</h3>
 <h4 align="center"> I am a mobile app developer using FLUTTER. The junior full-stack developer who's been doing this stuff for over 3 years.</h4>
 
-
+<br>
 <div align="center" class="row">
     <img src="https://img.shields.io/github/followers/sudeshnb?logo=github&label=Github%20Followers&style=non" alt="sudeshnb" />
     <img src="https://img.shields.io/github/stars/sudeshnb?logo=github&label=Github%20Stars&style=non" alt="sudeshnb" />
@@ -12,25 +19,48 @@
 </div>
 
 <br>
-<div class="row">
- Skills: Flutter - Android - Kotlin - Swift - Java - Laravel - Firebase - Web Services (REST).
-</div>
 <br>
 
-- 🌍 &ensp; I'm From Sri Lanka.
-- 🧑 &ensp; I'm Working as a freelancer. 
-- 🌱 &ensp; I'm currently working with Flutter, Swift & more ❤️
 
-### Languages and Tools
+<ul  >
+    <li >🔭 I am a self-taught Full Stack Developer and a Machine Learning Developer.</li>
+    <li>🌱 Interested in Full Stack Mobile Application development.</li>
+    <li>🧑 I'm currently working with Flutter, Swift & more ❤️</li>
+</ul>
+  
 
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
-[<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][java]
-[<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />][java]
-[<img align="left" alt=“Swift” width="26px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][swift]
-[<img align="left" alt=“Kotlin” width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][kotlin]
-[<img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
+
+
+##### Languages I use
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=0769AD)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=dart)
+![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
+![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+
+
+##### Some of the technologies I have worked with
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=0769AD)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+<br/>
 
 <br />
 <br />
