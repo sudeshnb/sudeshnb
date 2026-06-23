@@ -84,7 +84,7 @@
 <br />
 
 
-<details><summary><strong><h3>🤷‍♂️ GitHub Stats?</h3></strong></summary>
+<summary><strong><h3>🤷‍♂️ GitHub Stats?</h3></strong></summary>
 
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
@@ -94,41 +94,33 @@
     <td>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudeshnb&" alt="sudeshnb" />
     </td>
-   </tr>
- <tr>
     <td>
       <a href="https://github.com/sudeshnb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeshnb&theme=light&hide_langs_below=1" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=sudeshnb&theme=github_dark&hide_langs_below=1" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sudeshnb&theme=light&hide_langs_below=1" />
+</picture>
 </a>
     </td>
-    
    </tr>
 </table>
-<!-- <table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sudeshnb" alt="Talha's github stats"/>    
-    </td> 
-   </tr>
-</table> -->
+
 
 
 <br />
 <br />
 
-</details>
-<details><summary><strong><h3>🏆 GitHub Trophies</h3></strong></summary>
- 
+<summary><strong><h3>🏆 GitHub Trophies</h3></strong></summary>
+
 ![](https://github-profile-trophy.vercel.app/?username=sudeshnb&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-</details>
 
 
 <div align="center">
 ❤ Mobile app development in my blood ❤
 <br />
 <br />
-<img align="center" src = "https://profile-counter.glitch.me/sudeshnb/count.svg" alt ="Loading...">
+<img src="https://profile-counter.deno.dev/sudeshnb/count.svg" alt="sudeshnb's Visitor Count" />
 </div>
 
 
@@ -138,7 +130,7 @@
 ### Connect With Me
 
  
-[<img align="left" alt="sudeshnb | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
+[<img align="left" alt="sudeshnb | Website" width="28px" src="https://github.com/user-attachments/assets/dd8fc526-eb7f-48b7-9d88-3ded5cad120b" />][website]
 [<img align="left" alt="sudeshnb | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
 [<img align="left" alt="sudeshnb | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
 [<img align="left" alt="sudeshnb | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
@@ -152,7 +144,7 @@
 <br />
 
 [website]: https://sudeshnb.xyz
-[whatsapp]: https://wa.me/94741325674
+[whatsapp]: https://wa.me/94720655341
 [mail]: https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvkXFgPlnbqWvNTVVtpCgpgmNpntTSctVHgdqlngkMnbsSVRSRdMRzPQJvZgTNcmLRTdfg
 [twitter]: https://twitter.com/sudesh78](https://twitter.com/intent/follow?screen_name=sudesh78
 [youtube]: https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg
