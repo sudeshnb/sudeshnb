@@ -6,13 +6,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, I'm <a href="https://sudeshnb.xyz"> Sudesh Bandara.</a> 💪</h1>
 <br>
 <h3 align="center">Mobile App Developer | Online Entrepreneur | Data Analysis Enthusiast</h3>
-<h4 align="center"> I am a mobile app developer using FLUTTER. The junior full-stack developer who's been doing this stuff for over 3 years.</h4>
+ I'm a mobile app developer with 5+ years of hands-on experience creating mobile applications and full-stack solutions. I love turning ideas into functional products by combining beautiful UI experiences with powerful backend systems.
+
+My journey in software development has taken me through mobile development, databases, APIs, cloud services, and problem-solving across different industries. I’m always exploring better ways to build efficient, scalable, and meaningful applications.
 
 <br>
 <div align="center" class="row">
     <img src="https://img.shields.io/github/followers/sudeshnb?logo=github&label=Github%20Followers&style=non" alt="sudeshnb" />
     <img src="https://img.shields.io/github/stars/sudeshnb?logo=github&label=Github%20Stars&style=non" alt="sudeshnb" />
-<!--     <img alt="followers" src="https://img.shields.io/github/followers/sudeshnb?label=Followers&style=social"> -->
     <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=non&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/sudeshnb" alt="sudeshnb" />
     <img src="https://komarev.com/ghpvc/?username=sudeshnb&logo=github&color=brightgreen" alt="watching_count" />
     <img src="https://img.shields.io/badge/-CONNECT-blue?style=non&logo=Linkedin&link=https://www.linkedin.com/in/sudeshnb/" alt="sudeshnb" />
@@ -24,8 +25,12 @@
 
 <ul  >
     <li >🔭 I am a self-taught Full Stack Developer and a Machine Learning Developer.</li>
-    <li>🌱 Interested in Full Stack Mobile Application development.</li>
     <li>🧑 I'm currently working with Flutter, Swift & more ❤️</li>
+    <li>🚀 Flutter Mobile App Developer with 5+ years of experience</li>
+    <li>💻  Full-Stack Developer passionate about building complete software solutions</li>
+    <li>📱 Skilled in mobile apps, APIs, databases, and cloud technologies</li>
+    <li>🌱 Always learning, experimenting, and improving through new challenges</li>
+  
 </ul>
   
 
